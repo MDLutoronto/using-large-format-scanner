@@ -1,24 +1,16 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
+title: Using the large format scanner   # Title of the page, which will be displayed in the navigation and the browser title.
 layout: page  # Layout type, usually 'page' for standard pages.
 nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
+description:  This tutorial will help users learn how to properly use the Map and Data Library's large format scanner.
 permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
+created_date:  2016-04-12
 has_children: False  # Set to True if the page has sub-pages.
-staff:  # Optional: Nested list of staff members associated with the page.
-  - name: Staff One  # PLACEHOLDER: Replace with actual staff member's name.
-    link: https://library.utoronto.ca/staff/staff-one  # link is optional
 maintainer:
-  - name: Maintainer Name  # PLACEHOLDER: Replace with actual maintainer's name.
-    link: https://example.com/maintainer  # link is optional
-# student_staff:  
-# - name: Student Name
-#   link: https://example.com/student-name
-# - name: Another Student
-#   link: https://example.com/another-student  # link is optional
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 ---
-
+# Using the large format scanner
 We have a new, 60”-wide, high-resolution, drum-feed scanner for maps and other large-format items. Please ask Map & Data Library staff for assistance.
 
 We are happy to assist you with scanning when we are open. This scanner replaces our previous 56" Colortrac scanner.
@@ -54,7 +46,7 @@ Getting Started
 
 1. If necessary, press CTRL+ALT+DEL to unlock the workstation.
 2. Click on the “Quick Scanning” profile on the bottom left of the screen. You will not need to use your username or password.
-3. Once the user account loads, open **ScanManage**r, available on the desktop.
+3. Once the user account loads, open **ScanManager**, available on the desktop.
 
 Navigating the Main Window
 --------------------------
@@ -142,3 +134,5 @@ You cannot:
 * Change the file type.
 
 **If you edit your image after scanning, be sure to save it again.**
+
+**Technique:** [Scanning](https://mdlutoronto.github.io/tutorials-search/?technique=Scanning) \| **Data Format:** [Paper maps](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Paper+maps)
